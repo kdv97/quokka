@@ -1,0 +1,228 @@
+UserID,BirthYear,DA,DiagnosisYear,Gender,Impact,Levadopa,MAOB,Other,Parkinsons,Sided,Tremors,UPDRS
+User_0EA27ICBLF,1952, True,2000, Female, Severe, True, False, False, True, Left, True, Don't know
+User_0QAZFRHQHW,1959, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_0WTDIGPSBZ,1946, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_1HOEBIGASW,1944, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_1WMVCCU4RH,1953, False,2017, Male, Medium, False, False, False, True, Left, True, Don't know
+User_1XNJCXS3EY,1936, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_2JTCBKUP8T,1958, False,2013, Male, Medium, True, False, False, True, Right, True, Don't know
+User_2X17VCRRQA,1951, False,2003, Male, Severe, True, False, False, True, Left, True, Don't know
+User_310NXPGJPD,1961, False,2015, Female, Medium, True, False, True, True, Left, True, Don't know
+User_39KQRZCESF,1942, True,2013, Male, Medium, True, False, False, True, Right, True, Don't know
+User_3DIXPRIOSW,1936, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_3LBXTMXULC,, False,2016, Female, Medium, False, False, True, True, Left, True, Don't know
+User_3MZWDTW7CC,, False,, Female,, False, False, False, True, None, False, Don't know
+User_48DZPAJ5NS,1950, False,2010, Male, Mild, False, False, True, True, None, False, Don't know
+User_4GUYFBZMK9,1953, True,2012, Male, Medium, True, True, False, True, Left, False, Don't know
+User_4XPHKKBXS6,, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_5ARV4LHEJ0,1944, False,2016, Male, Severe, False, False, True, True, Right, False,2
+User_5CECBJXGB3,1954, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_5PQVTWULAC,1943, True,2009, Female, Mild, False, False, True, True, Right, True, Don't know
+User_5USOYSDCXB,1941, False,2017, Male, Mild, False, False, False, True, None, True, Don't know
+User_5YFAPLRCMD,1967, False,2016, Male, Mild, True, False, False, True, None, True, Don't know
+User_6LB9FQABZQ,1956, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_6R9IGYWVWT,1947, False,2014, Female, Mild, True, False, True, True, Left, True, Don't know
+User_6WBXSDG5BB,, False,, Female, Medium, True, False, True, True, Left, True,4
+User_6YXFEMHYZI,1947, True,2004, Female, Medium, True, False, True, True, Left, True, Don't know
+User_7HTEQAAWWO,1942, False,2012, Male, Severe, True, False, False, True, None, False, Don't know
+User_7QVQD5IJEH,1939, False,2010, Male, Medium, False, False, True, True, Right, False, Don't know
+User_7XS9VOLXWU,1938, False,2016, Female, Medium, True, False, True, True, Right, True, Don't know
+User_81NEUZEBXI,, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_8EY6NZAKCI,1950, False,2012, Female, Mild, True, False, True, True, Right, True, Don't know
+User_8MERXVINPN,, True,2012, Female, Medium, True, False, False, True, Right, True, Don't know
+User_8O9IAIA9L1,1947, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_8TEUUGQBYB,1935, False,2013, Male, Severe, True, False, False, True, Right, True, Don't know
+User_927ZLCPEJM,1947, True,2013, Male, Medium, False, True, False, True, Right, True, Don't know
+User_95S93AXF86,1952, False,2010, Female, Medium, False, False, True, True, None, True, Don't know
+User_9GBSZXI2BB,, False,2014, Female, Medium, True, False, True, True, Right, True, Don't know
+User_9JRHCGCWAZ,1949, False,2014, Female, Mild, True, False, True, True, Right, True, Don't know
+User_9RCEHVGNCJ,1951, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_9TUXDIR9EE,, False,2016, Female, Mild, True, False, False, True, None, False, Don't know
+User_9ZRBC5WOZR,1943, False,2016, Female, Mild, False, False, False, True, Left, True,1
+User_ACSKCOJC06,, True,2016, Male, Medium, False, False, False, True, Left, True, Don't know
+User_AFNOZ1KI1M,1943, False,2013, Female, Severe, True, False, False, True, None, True, Don't know
+User_AFQWSP8ARK,, False,, Male, Mild, True, False, False, True, Left, True, Don't know
+User_AJHHNPKG0K,1930, False,2007, Male, Medium, True, False, True, True, Left, True, Don't know
+User_AJIGSB2YPW,1949, False,2004, Female, Medium, True, False, False, True, Left, False, Don't know
+User_ARUGT4UL2R,1955, False,, Male, Mild, True, True, True, True, None, True, Don't know
+User_ASP8RSNO73,1961, True,, Male, Severe, True, True, True, True, Right, True, Don't know
+User_AVNGRDUXE5,1948, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_AXXXXBBCCH,1949, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_B4NL4SV9ZC,1941, False,2016, Female, Severe, True, False, False, True, None, False, Don't know
+User_BBCWCBNBPR,1952, False,1996, Male, Medium, True, False, True, True, Left, False, Don't know
+User_BENXJNDSC4,1960, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_BFXNVL50DC,1951, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_BIGWMXFU3B,1937, False,2016, Male, Medium, True, False, False, True, Right, False, Don't know
+User_BZ8MQ2TBMS,, False,2015, Female, Medium, True, True, True, True, None, False, Don't know
+User_C6UGS6P0J0,, False,, Male, Mild, True, False, False, True, Right, False, Don't know
+User_CAXCJIKLYM,1946, False,2015, Female, Mild, False, False, True, True, Left, True, Don't know
+User_CEU6KM05RU,, False,2006, Female, Medium, True, False, False, True, None, False, Don't know
+User_COK8G1W7JY,, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_CPSM4LIXDS,1946, False,2016, Male, Severe, False, False, True, True, Right, False, Don't know
+User_CYC6IZJYTE,1954, True,1998, Female, Mild, True, False, False, True, Left, True, Don't know
+User_E0TBSMYHQI,1948, False,2015, Male, Mild, True, False, False, True, None, False, Don't know
+User_E0XRQVF05S,1936, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_E1E2I8HUGC,1960, False,2015, Male, Medium, True, False, False, True, None, False, Don't know
+User_E7UA8EHENF,1951, False,2013, Male, Medium, True, False, False, True, Right, True, Don't know
+User_EBGLZDVO5S,1953, False,2004, Female, Medium, True, False, True, True, Left, True,3
+User_EF9XEFXPBN,1951, False,2016, Female, Mild, False, True, False, True, Left, False, Don't know
+User_EKG57AN0N6,1951, False,2005, Female, Mild, True, False, True, True, None, True, Don't know
+User_EMYGMAIB2L,1945, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_ERFIZ5O8FM,, False,2010, Male, Severe, True, True, False, True, None, False, Don't know
+User_EX8J9DGRSY,1943, False,2007, Male, Mild, True, False, True, True, Left, False, Don't know
+User_EZF9NAHLOU,1949, True,2015, Male, Mild, False, False, False, True, Right, False, Don't know
+User_F56FSV2EP7,1961, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_F8KU8UP2SZ,1936, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_FFNMFHHSZJ,1958, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_FHEOPKL3QQ,1948, False,2014, Female, Medium, False, False, False, True, Right, True, Don't know
+User_FIWPKLWCT5,1940, True,1996, Male, Severe, True, False, True, True, Right, True, Don't know
+User_FX9KOOZRZL,1943, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_FXC5YFXZ0K,1943, False,2009, Male, Medium, True, False, True, True, Left, False, Don't know
+User_G6OE5CXQPY,1952, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_GEYWAGTINR,1929, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_GHRLW1IJRV,1949, False,2009, Female, Medium, True, False, False, True, Left, True, Don't know
+User_GMCJGJHMZN,1949, True,1995, Female, Medium, True, False, False, True, Right, False, Don't know
+User_GN1CUIPUTJ,1938, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_GN3N4ZNCV9,1965, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_GOCJ4TNPII,1945, False,2006, Male, Mild, True, False, True, True, Left, False, Don't know
+User_GRPUBQLE4F,1941, False,2000, Female, Mild, True, False, True, True, Left, True, Don't know
+User_GUDRVXO6RX,1956, False,2008, Female, Severe, True, False, False, True, None, False, Don't know
+User_H08AW2YBAJ,1952, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_HAEZ2A3NM5,1985, False,2013, Male, Mild, False, False, False, True, Left, True, Don't know
+User_HB2JCE24IE,1956, False,2011, Male, Medium, True, False, False, True, Right, False, Don't know
+User_HQGUVYLVZH,, False,2014, Male, Medium, False, False, False, True, None, True, Don't know
+User_HVSWQYNG2N,, True,2015, Male, Medium, False, False, True, True, Left, True, Don't know
+User_HYGNDIWHSC,1937, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_I3U47MF5UF,1947, False,2014, Female, Medium, True, False, True, True, None, True, Don't know
+User_ICXFP2WKAU,1952, False,2016, Male, Mild, False, False, False, True, None, True, Don't know
+User_IDYIDJBAXF,1940, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_IDZHIUK2W2,1943, False,2013, Female, Mild, True, False, False, True, None, True, Don't know
+User_ITWTZ5F3VW,1961, False,2008, Male, Medium, True, False, False, True, Right, False, Don't know
+User_IZBOYJGXXB,1940, False,2015, Female, Medium, True, False, True, True, Left, True, Don't know
+User_J3QZ0MCD1Y,1940, False,2008, Female, Mild, True, False, True, True, Right, True, Don't know
+User_JDWYGP605O,1941, False,2006, Female, Severe, True, False, False, True, None, True, Don't know
+User_JHBOKKHOQW,1939, False,2016, Female, Mild, True, False, False, True, None, True, Don't know
+User_JIRZDKEJQN,1985, False,2014, Male, Mild, False, False, True, True, None, True, Don't know
+User_JMIVIRFQRR,1947, True,2007, Male, Severe, True, False, False, True, Right, True,3
+User_JMYZ5IKGWE,, False,2008, Female, Mild, True, False, True, True, Right, True, Don't know
+User_JQ0YSY0AYO,1949, False,2015, Male, Mild, False, True, False, True, None, False, Don't know
+User_JWGIQXYUDJ,1947, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_K2VMDST8HC,1954, True,2015, Male, Mild, False, True, False, True, Left, False, Don't know
+User_K4TGUFAPJ8,1937, False,2011, Male, Medium, True, False, False, True, None, False, Don't know
+User_KCHR1NSQZO,1957, False,2013, Male, Mild, True, False, False, True, Left, True, Don't know
+User_KEWWVGP2NM,, False,2014, Male, Medium, True, False, True, True, Right, True, Don't know
+User_KKTY9PC9XM,1936, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_KRJVEQSLL5,1948, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_KTUVFFSLN4,1946, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_L2GM3QU5IO,1969, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_L7Q0BDRZ9C,1963, False,2004, Male, Medium, True, False, False, True, Right, False, Don't know
+User_L7Q16SJ7KP,1965, False,2007, Male, Severe, True, True, False, True, Right, True, Don't know
+User_LA6KW35OXK,1958, False,2016, Female, Mild, False, False, False, False, Left, True, Don't know
+User_LEFLOMUTBN,1943, False,2016, Male, Mild, True, False, False, True, None, False, Don't know
+User_LFKWFNOFEM,1952, False,2017, Female, Mild, True, False, False, True, None, True, Don't know
+User_LIOUUNGQ8Q,1958, True,2008, Male, Medium, True, False, False, True, None, True, Don't know
+User_LKR3NUMIFS,, False,, Male, Medium, True, False, False, True, Right, True, Don't know
+User_LKYPMARSKU,1946, False,2017, Female, Mild, False, False, False, True, Right, True, Don't know
+User_LSQWWDXEYO,1951, True,2016, Male, Mild, False, False, False, True, Left, True, Don't know
+User_LVRTXTCS1Z,1932, False,, Female, Medium, True, False, False, True, None, False, Don't know
+User_M0MTCXU0MH,1960, True,2016, Female, Severe, True, True, False, True, None, True,2
+User_M0PBVLISCF,1967, False,, Male, Medium, True, False, False, True, Left, False, Don't know
+User_M4ARHBY168,1950, False,  ------, Female,  ------, False, False, False, False, Left, False, Don't know
+User_MDL9KS0SFL,, False,, Female, Mild, False, True, True, True, None, False, Don't know
+User_MG8XVA5BFA,1942, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_MNMBCKNAAS,1965, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_MQ6HDDONF0,1949, False,1992, Female, Medium, False, False, True, True, Right, False, Don't know
+User_MQJBGHOEXP,, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_NBISCUWYGS,1939, False,2014, Male, Medium, True, False, False, True, None, False, Don't know
+User_NCHCW5MTBJ,1959, False,2016, Male, Mild, True, False, True, True, Right, False, Don't know
+User_NMKZDOICAB,1952, False,2005, Male, Medium, True, False, True, True, None, True, Don't know
+User_NMMGWRY6SO,1948, False,2016, Male, Mild, False, False, False, True, Right, False, Don't know
+User_NPACI6EW26,1965, True,2016, Female, Medium, False, False, False, True, Left, True, Don't know
+User_NSYGJALQVO,1938, False,2016, Male, Medium, False, False, False, True, None, False, Don't know
+User_NTWSB0ULD7,1962, True,2013, Male, Mild, True, False, False, True, Left, True, Don't know
+User_O0L3RD63QP,1944, False,2012, Female, Mild, True, False, True, True, None, True, Don't know
+User_OAXZCZWN7W,, False,2014, Male, Mild, True, False, False, True, Right, False, Don't know
+User_OMCPRWYBSQ,1952, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_P8HEQZSYJN,1964, False,2017, Female, Medium, True, False, False, True, None, True, Don't know
+User_PJRIZQJMKO,1947, True,2016, Male, Medium, False, False, False, True, Left, False, Don't know
+User_PJU53Y7KVB,, False,, Male, Mild, True, False, False, True, Left, True, Don't know
+User_PRGWGP1WH4,1935, False,1991, Female, Mild, True, False, True, True, None, True, Don't know
+User_PW8A521Y5K,, False,2016, Male, Mild, False, False, False, True, Left, True, Don't know
+User_PWXIPGSKEF,1953, False,2016, Female, Mild, True, False, False, True, None, False, Don't know
+User_Q6MXNH0MGM,1955, False,2006, Female, Mild, True, False, True, True, Left, True, Don't know
+User_QAH9IVALVC,1942, False,2015, Female, Medium, True, False, False, True, Right, True, Don't know
+User_QCFNDCZPQH,1962, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_QDV7XQWLI7,1938, False,2016, Male,, False, False, True, True, None, False, Don't know
+User_QEYNMBJ8T0,1940, False,2009, Male, Severe, True, False, False, True, None, False, Don't know
+User_QPEDAXESTL,1938, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_QSFGD1TSPA,, True,, Male, Medium, True, True, True, True, Left, False, Don't know
+User_QXLSWXKHEX,1953, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_R3OKI24Z0Q,1934, False,2016, Female, Mild, False, False, False, True, Left, True, Don't know
+User_R8CJDKFQJZ,1942, False,2016, Female, Mild, True, False, False, True, None, True, Don't know
+User_RDJHNZGQL2,1948, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_RDJPGMWKAG,, False,, Male, Medium, True, False, True, True, Left, False, Don't know
+User_RWQHSVOUGI,, False,2012, Female, Medium, True, False, True, True, Left, True, Don't know
+User_RYQGAPGNAM,1937, False,2015, Female, Mild, False, False, True, True, Right, True, Don't know
+User_S0YGDLIF9V,, True,, Male, Severe, True, True, True, True, None, False,4
+User_S8Y5T8RWZ4,, False,, Male, Mild, False, False, True, True, Left, True, Don't know
+User_S9C3TTX3NE,1945, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_SDZPQV3VZ1,, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_SGT8K5GXG0,1942, False,2015, Male, Medium, False, False, True, True, Right, False, Don't know
+User_SH6ZX4UKRO,1958, False,2016, Female, Medium, False, False, True, True, Right, True, Don't know
+User_SKLXBAOSN4,1951, False,2009, Female, Medium, True, False, False, True, Right, True, Don't know
+User_SOP2REQFUH,1943, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_SPNOI40JCA,1947, False,2003, Male, Medium, True, False, True, True, Left, False,3
+User_STW9PUPHWN,1946, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_SW61HF6XRY,1953, False,2016, Male, Severe, True, False, True, True, None, True, Don't know
+User_SWJ4Q9V1NW,1948, False,2014, Male, Medium, True, False, True, True, Right, True, Don't know
+User_SYUUDFV8IU,1954, False,2015, Male, Medium, True, False, False, True, Right, True, Don't know
+User_T0RR5A7EFV,1943, False,2015, Male, Medium, True, False, False, True, Left, True, Don't know
+User_TAGYMXUFJE,, False,, Male, Severe, True, False, False, True, Right, True, Don't know
+User_TBOPVHGLMX,1942, False,2016, Male, Mild, False, False, False, True, None, False, Don't know
+User_TDQGZRB2SU,1973, False,2012, Female, Mild, False, False, True, True, Right, True, Don't know
+User_TL2XHTLK1T,1947, False,2014, Male, Mild, False, False, True, True, Left, True, Don't know
+User_U25FAZCDZM,, False,2017, Male, Mild, False, False, False, True, Right, True, Don't know
+User_U8RI3K0CGP,1941, True,2017, Female, Mild, False, False, False, True, Right, True, Don't know
+User_UDCY90VKYN,1938, False,2016, Male, Mild, True, False, False, True, Left, False, Don't know
+User_UH6FQWXIZI,1936, False,2016, Male, Mild, False, False, False, False, Left, True, Don't know
+User_UJ2F1R6ODJ,1958, False,2008, Female, Mild, True, False, False, True, Left, False, Don't know
+User_UUIZH9TDXR,1958, False,2015, Female, Severe, True, False, False, True, Left, False, Don't know
+User_UYBDVXACTH,1943, False,2015, Male, Medium, True, False, True, True, Right, True, Don't know
+User_V2SZVYXBOD,1941, False,2015, Female, Mild, False, False, True, True, Right, False, Don't know
+User_VCFUOTMSKT,1986, False,2016, Male, Mild, False, False, False, False, Left, True, Don't know
+User_VCTVD6LMPK,1933, True,2012, Female, Medium, True, False, True, True, None, False, Don't know
+User_VIAXR21TSC,1946, False,2012, Female, Medium, True, False, True, True, Left, True, Don't know
+User_VR0LFE1JUC,1965, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_VSBEPFSFWK,1952, False,2016, Female, Mild, False, False, False, True, Right, False, Don't know
+User_VVYPNRQ5KG,1949, False,2002, Female, Mild, False, False, True, True, Left, True, Don't know
+User_VZWQROMTLO,1927, False,2015, Male, Medium, True, False, False, True, Right, False, Don't know
+User_WBS5I7VF1G,1959, False,2016, Female, Medium, False, False, False, True, Right, False, Don't know
+User_WCNUFGGLYB,1941, False,2017, Female, Medium, False, False, False, True, Left, True, Don't know
+User_WDNE1Q9EHT,1941, True,2012, Female, Medium, True, False, True, True, None, False, Don't know
+User_WXNQ0QM0XD,1959, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_WY25WHLA9D,, False,, Male,, True, False, False, True, Left, False, Don't know
+User_X7PEJ5EG77,1953, True,2015, Male, Mild, True, False, False, True, None, False, Don't know
+User_XPHHPHIVZ4,1957, False,2016, Female, Mild, False, False, False, True, Right, False, Don't know
+User_XQIXWF0BXG,, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_XWAX2IHF3O,1970, True,2007, Female, Medium, True, False, False, True, Left, True, Don't know
+User_YAJFHG6OHD,1929, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_YFZEXV85OS,1945, False,2009, Female, Mild, True, False, False, True, Left, False, Don't know
+User_YI43UM1CEH,1958, True,2015, Male, Mild, False, False, False, True, Right, True, Don't know
+User_YIA9DW5AGQ,1934, False,  ------, Female,  ------, False, False, False, False, None, False, Don't know
+User_YNVRRFC8S4,1927, False,2010, Male, Medium, True, False, False, True, None, False, Don't know
+User_YQSGN9BMVK,1948, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_YWAWVFZZZE,, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_YWMIQIQND3,1953, False,2016, Female, Mild, False, False, False, True, Right, True, Don't know
+User_YYPKGX6B24,1928, False,  ------, Male,  ------, False, False, False, False, None, False, Don't know
+User_Z2UPVHHGBE,1947, False,2015, Female, Mild, False, False, True, True, Right, True, Don't know
+User_ZCPALNB4ZM,1937, False,2015, Female, Severe, True, False, True, True, Right, True, Don't know
+User_ZEA4RST93H,, False,, Male,, True, False, False, True, None, True, Don't know
+User_ZI1KGKLCD5,1949, False,2015, Male, Medium, False, False, False, True, None, False, Don't know
+User_ZIUU38ZJXA,1946, True,2004, Female, Severe, True, False, True, True, Right, True, Don't know
+User_ZPXSHZSGKI,1942, False,2014, Male, Medium, False, False, True, True, Right, True, Don't know
+User_ZQ4UHHUPNZ,, False,2013, Male, Medium, False, False, False, True, None, True, Don't know
+User_ZT9ASWFCFS,1957, False,2008, Female, Severe, True, False, True, True, Left, True, Don't know
+User_ZWBPPNQCUX,1942, False,2016, Male, Mild, True, False, False, True, None, False, Don't know
+User_ZWHGXDUDLG,1942, False,2013, Male, Medium, True, False, True, True, None, True, Don't know
+User_ZY9CCHSPF2,, True,2015, Female, Medium, False, False, False, True, Right, True, Don't know
+User_ZYWLN4JVLA,, True,, Female, Medium, True, True, True, True, Right, False, Don't know
